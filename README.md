@@ -1,7 +1,7 @@
-# Data Analysis with Python
-This repository contains the courseworks and assignments for the **Data Analysis with Python** online workshop arranged by the **EMK Center** on August, 2021.
+# Test Cricket Analysis
+This repository contains a step-by-step analysis on International Test Cricket data as a requirement for the **Data Analysis with Python** online workshop arranged by the **EMK Center** on August, 2021.
 
-## Course Instructor
-**Md. Shahidullah Kawsar**
-<br>Data Scientist, IDARE
-<br>Houston, TX
+### Project Learning Outcomes
+- Importing data into Jupyter Notebook as a Pandas DataFrame object
+- Data Processing with Pandas
+- DataFrame Operations such as Column rename, Column Splitting, Concatenation, Column Drop, etc.
